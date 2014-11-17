@@ -1,5 +1,5 @@
 # Base OS
-FROM centos:centos7
+FROM shaunol/centos-mono
 MAINTAINER shaunol
 
 # Env setup
